@@ -1,0 +1,2 @@
+Comentarios: Varios de los ejercicios que se piden realizar mediante listas por comprensión los haces con bucles explícitos. 
+Nota: 4
